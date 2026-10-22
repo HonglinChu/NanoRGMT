@@ -1,4 +1,4 @@
-# Extreme-RGMT
+# NanoGMT
 
 Highly dynamic humanoid whole-body motion tracking on the Unitree G1 (29 DoF), packaged
 as an external task package for [mjlab](https://github.com/mujocolab/mjlab).
